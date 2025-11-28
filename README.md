@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00A8E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Salma+Bouaiche;Full-Stack+Developer;Laravel+%7C+VueJS+%7C+React;PHP+%7C+Java+%7C+C+%7C+JavaScript;MySQL+%7C+SQL+Server;Welcome+to+my+GitHub!+👩‍💻">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00A8E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Salma+Bouaiche;Full-Stack+Developer;Laravel+%7C+VueJS+%7C;PHP+%7C+Java+%7C+C+%7C+Vb+%7C++JavaScript;MySQL+%7C+SQL+Server;Welcome+to+my+GitHub!+👩‍💻">
 </h1>
 
 

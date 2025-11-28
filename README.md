@@ -44,8 +44,11 @@
 
 # 📊 **GitHub Stats**
 
-![bouaichesalma-commits's Stats](https://github-readme-stats.vercel.app/api?username=bouaichesalma-commits&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![bouaichesalma-commits's Stats](https://github-readme-stats.vercel.app/api?username=bouaichesalma-commits&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
+![bouaichesalma-commits's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bouaichesalma-commits&theme=tokyonight&hide_border=true)
+
+![bouaichesalma-commits's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaichesalma-commits&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ---
 
 # 🐍 **GitHub Contribution Snake**

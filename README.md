@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00A8E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Salma+Bouaiche;Full-Stack+Developer;Laravel+%7C+VueJS+%7C;PHP+%7C+Java+%7C+C+%7C+Vb+%7C++JavaScript;MySQL+%7C+SQL+Server;Welcome+to+my+GitHub!+👩‍💻">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00A8E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Salma+Bouaiche;Full-Stack+Developer;Laravel+%7C+VueJS;PHP+%7C+Java+%7C+C+%7C+Vb+%7C+JavaScript;MySQL+%7C+SQL+Server;Welcome+to+my+GitHub!+👩‍💻">
 </h1>
 
 
@@ -8,7 +8,7 @@
 
 ## 👩‍💻 **About Me**
 - 🔧 Full-Stack Developer specializing in **Laravel, VueJS, and React**
-- 💡 Strong foundation in **PHP, Java, C, JavaScript**
+- 💡 Strong foundation in **PHP, Java, C, JavaScript , Vb**
 - 🌐 Experienced with **WordPress & Elementor** for website creation
 - 🗄️ Solid database management skills: **MySQL & Microsoft SQL Server**
 - 🎨 Passionate about clean UI/UX and modern web design
@@ -52,8 +52,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="45" />
   <img src="https://skillicons.dev/icons?i=git" height="45" />
   <img src="https://skillicons.dev/icons?i=github" height="45" />
-  <img src="https://skillicons.dev/icons?i=xampp" height="45" />
-  <!-- Visual Studio -->
+
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" />
   <!-- phpMyAdmin has no icon -->
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" height="30" />
@@ -79,13 +78,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaichesalma-commits&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" />
 
-</p>
-
----
-
-# 🐍 **GitHub Contribution Snake**
-<p align="center">
-  <img src="https://github.com/bouaichesalma-commits/bouaichesalma-commits/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
